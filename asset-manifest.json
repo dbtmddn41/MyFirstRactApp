@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/MyFirstRactApp/static/js/main.4cdad601.js",
+    "main.css": "/MyFirstRactApp/static/css/main.e4c8815a.css",
+    "main.js": "/MyFirstRactApp/static/js/main.49d6b659.js",
     "index.html": "/MyFirstRactApp/index.html",
-    "main.4cdad601.js.map": "/MyFirstRactApp/static/js/main.4cdad601.js.map"
+    "main.e4c8815a.css.map": "/MyFirstRactApp/static/css/main.e4c8815a.css.map",
+    "main.49d6b659.js.map": "/MyFirstRactApp/static/js/main.49d6b659.js.map"
   },
   "entrypoints": [
-    "static/js/main.4cdad601.js"
+    "static/css/main.e4c8815a.css",
+    "static/js/main.49d6b659.js"
   ]
 }
