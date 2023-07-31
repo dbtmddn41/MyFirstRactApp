@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/MyFirstRactApp/static/js/main.b6b0bf4c.js",
+    "main.js": "/MyFirstRactApp/static/js/main.4cdad601.js",
     "index.html": "/MyFirstRactApp/index.html",
-    "main.b6b0bf4c.js.map": "/MyFirstRactApp/static/js/main.b6b0bf4c.js.map"
+    "main.4cdad601.js.map": "/MyFirstRactApp/static/js/main.4cdad601.js.map"
   },
   "entrypoints": [
-    "static/js/main.b6b0bf4c.js"
+    "static/js/main.4cdad601.js"
   ]
 }
